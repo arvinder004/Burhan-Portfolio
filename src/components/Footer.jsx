@@ -16,13 +16,13 @@ const Footer = () => {
 					<a href="burhansaifee2003@gmail.com" className='transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1' style={{ cursor: 'pointer' }}>
 						<FiMail className='text-xl' />
 					</a>
-					<a href="https://www.linkedin.com/in/burhanuddin-saifee-6aa15b255/" target='_blank' className='transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1' style={{ cursor: 'pointer' }}>
+					<a href="https://www.linkedin.com/in/burhanuddin-saifee-6aa15b255/"  className='transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1' style={{ cursor: 'pointer' }}>
 						<AiFillLinkedin className='text-xl' />
 					</a>
-					<a href="https://github.com/burhansaifee?tab=overview&from=2025-02-01&to=2025-02-11" target='_blank' className='transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1' style={{ cursor: 'pointer' }} >
+					<a href="https://github.com/burhansaifee?tab=overview&from=2025-02-01&to=2025-02-11"  className='transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1' style={{ cursor: 'pointer' }} >
 						<FaGithub className='text-xl' />
 					</a>
-					<a href="https://www.instagram.com/saifee.b0?igsh=c3c0bDN0anVlcXZo" target='_blank' className='transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1' style={{ cursor: 'pointer' }}>
+					<a href="https://www.instagram.com/saifee.b0?igsh=c3c0bDN0anVlcXZo"  className='transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1' style={{ cursor: 'pointer' }}>
 						<FaInstagram className='text-xl' />
 					</a>
 				</div>
