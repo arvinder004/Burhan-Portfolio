@@ -1,6 +1,6 @@
 import React from 'react';
 import { useState, useEffect, useRef } from 'react';
-import { FullName } from '../constants';
+import { FullName } from '../constant/constants';
 import { motion } from "framer-motion";
 import Background from './Background';
 import Footer from './Footer';
